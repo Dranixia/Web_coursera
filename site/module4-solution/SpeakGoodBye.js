@@ -8,4 +8,4 @@
 	} 
 	
 	window.byeSpeak = byeSpeak;
-})(window)
+})(window);

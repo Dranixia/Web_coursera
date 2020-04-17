@@ -13,4 +13,4 @@
       window.helloSpeak.speak(names[i]);
     }
   }
-})(window)
+})(window);
